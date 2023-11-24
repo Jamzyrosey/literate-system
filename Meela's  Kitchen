@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <link rel="stylesheet" href="main.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meela's Kitchen</title>
+</head>
+<body>
+    <div>
+        <h1>
+            Meela's Kitchen 
+
+        </h1>
+         
+        <h3 style=
+        "font-family: Arial, Helvetica, sans-serif;
+         text-align: justify;" >
+            We at  Meela's Kitchen where we satisfy your taste buds.  
+        Yes we have every Nigerian food you can ever think of.
+        </h3>
+
+        <button>Learn More</button>
+
+        <h3 style="text-align: left;">
+            Meela's Kitchen
+
+        </h3>
+        
+    </div>
+</body>
+</html>
